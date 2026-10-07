@@ -1,0 +1,38 @@
+[
+  {
+    "path": "ABSTRACT_EN.md",
+    "sha256": "3f078b4f87ce7dc0d7fe29ee47023760b95d89ed0a5b436e10c8ebce0a6563a7"
+  },
+  {
+    "path": "PUBLICATION_NOTES.md",
+    "sha256": "b16d4600de6e9d1c6775ac7d212721f85ccc7df564f6fe086253e03a64b03472"
+  },
+  {
+    "path": "README.md",
+    "sha256": "28f45d0cd5d061a3430c336dded3b4bb14accd0be330b8816108efefd9dbca7a"
+  },
+  {
+    "path": "REPORT.md",
+    "sha256": "dff8a615a3a8e8928bd35bf7deef4566e0cef3d806e59b1fdf353c8cf86dc900"
+  },
+  {
+    "path": "evidence-experiments.json",
+    "sha256": "3e9a3f537f9aaa6a370acf9210e26d6af246c2d8d90bdb9e6c0d3048681a3f95"
+  },
+  {
+    "path": "evidence-network.json",
+    "sha256": "f76901d45b84971745a1153c7e030f3b299c41007759ab74ad68aa71807c01fe"
+  },
+  {
+    "path": "evidence-sources.json",
+    "sha256": "3a7049cf3550507a2187d6b60dd299a3044eb6712f6631185082976630ae0540"
+  },
+  {
+    "path": "evidence-static.json",
+    "sha256": "1455fddbc3a1656ea86aaf69cfb7502baede5c94d125d2e5f047a83f2a73cc6e"
+  },
+  {
+    "path": "verify_evidence.py",
+    "sha256": "d4c2e8b566b20f74f088c86157397de9e71972df0988a6a5f5263d8494128cdb"
+  }
+]

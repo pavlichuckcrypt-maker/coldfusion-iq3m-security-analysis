@@ -1,0 +1,53 @@
+{
+  "gguf": {
+    "sha256": "856d3ef6d6624cfef59aee4e30a8171fd7e9162b9db433dee61f65fa5b5e3933",
+    "localBytes": 14080727648,
+    "tensorCount": 851,
+    "tensorTypeCounts": {
+      "BF16": 1,
+      "F32": 353,
+      "IQ3_S": 409,
+      "Q4_K": 88
+    },
+    "errors": [],
+    "hashMatches": true,
+    "parameterElements": 26895998464
+  },
+  "numeric": {
+    "inputSha256": "856d3ef6d6624cfef59aee4e30a8171fd7e9162b9db433dee61f65fa5b5e3933",
+    "tensorCount": 851,
+    "nonfiniteCount": 0,
+    "method": "All stored BF16/F32 values and FP16 block scales of IQ3_S/Q4_K; no dequantization or inference",
+    "limitation": "Finite stored values/scales do not establish absence of backdoors, dequantization overflow, or stable inference."
+  },
+  "mtpTensorNames": [],
+  "outputTensor": {
+    "name": "output.weight",
+    "dimensions": [
+      5120,
+      248320
+    ],
+    "typeId": 30,
+    "dtype": "BF16",
+    "offset": 0,
+    "bytes": 2542796800,
+    "elements": 1271398400
+  },
+  "checkpointComparison": {
+    "revision": "fd6a26869dc5775b3c81ce65468af634dd300b02",
+    "tensorCount": 1199,
+    "storedFloatCount": 27781427952,
+    "nonfiniteCount": 0,
+    "byteIdenticalTensorCount": 1,
+    "changedTensorCount": 1198
+  },
+  "officialCheckpoint": {
+    "revision": "1d4bf0f2ff6012fd82039f2fa52739d0dd7c60c0",
+    "tensorCount": 1199,
+    "storedFloatCount": 27781427952,
+    "nonfiniteCount": 0
+  },
+  "unchangedTensor": [
+    "mtp.fc.weight"
+  ]
+}
