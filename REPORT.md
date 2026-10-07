@@ -1,5 +1,11 @@
 # Cold Fusion IQ3_M: the secret reached a tool — where does the request go next?
 
+## Be cautious: identify the exact build before downloading
+
+**Do not download or run the tested build on a computer containing private data, credentials or valuable work.** The model repository is **DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF**, on [Hugging Face](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF). This report concerns its pinned **IQ3_M** artifact; the source revision and measured artifact hash are recorded in the evidence. The link identifies the subject of the warning, not a download recommendation.
+
+Use properly licensed software and model releases from verified official publishers. Avoid pirated software, unofficial repackaged executables, and opaque model bundles whose provenance, modifications or intended use you cannot verify. Verify signatures or published hashes, review permissions and network destinations, and keep experimental models isolated from sensitive files and unrestricted tools. A free download, an impressive name or a model-card claim is not evidence of safety. Official distribution is a useful provenance check, but permissions and data handling still need scrutiny.
+
 Empirical security study · Evidence cutoff: 7 October 2026
 
 ## Findings
